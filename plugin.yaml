@@ -1,0 +1,7 @@
+# Antigravity Plugin Manifest
+name: agy-plugin-development
+version: 0.1.0
+description: Google Antigravity plugin containing the plugin-development skill.
+author: Chris Wenn
+provides_skills:
+  - plugin-development

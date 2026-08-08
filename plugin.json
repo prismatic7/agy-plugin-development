@@ -1,0 +1,8 @@
+{
+  "name": "agy-plugin-development",
+  "version": "0.1.0",
+  "description": "Google Antigravity plugin containing the plugin-development skill.",
+  "author": "Chris Wenn",
+  "license": "MIT",
+  "homepage": "https://github.com/prismatic7/agy-plugin-development"
+}
